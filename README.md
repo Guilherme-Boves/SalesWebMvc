@@ -20,11 +20,11 @@
 <p align="center" style="margin-bottom: 0px !important;">
   <h2 align="center" style="margin-top: 0px;">Preview do Sistema</h2>
 </p>
-
-<img width="200" src="Sellers.PNG" alt="" align="center">
-<img width="200" src="Relatorio_Todas_vendas.PNG" alt="" align="center">
-<img width="200" src="Relatorio_departamentos.PNG" alt="" align="center">
-
+<div align="center" >
+<img width="600" src="SalesWebMvc\wwwroot\images\Sellers.PNG" alt="" align="center">
+<img width="600" src="SalesWebMvc\wwwroot\images\Relatorio_Todas_vendas.PNG" alt="" align="center">
+<img width="600" src="SalesWebMvc\wwwroot\images\Relatorio_departamentos.PNG" alt="" align="center">
+</div>
 <p align="center" style="margin-bottom: 0px !important;">
   <h2 align="center" style="margin-top: 0px;">Inicializando o Projeto</h2>
 </p>
